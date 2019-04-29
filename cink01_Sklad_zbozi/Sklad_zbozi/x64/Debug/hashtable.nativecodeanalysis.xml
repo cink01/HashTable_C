@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\vejska\cink01_sklad_zbozi\sklad_zbozi\</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Item::{ctor}</FUNCTION>
+    <DECORATED>??0Item@@QEAA@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\vejska\cink01_sklad_zbozi\sklad_zbozi\</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Item::pocet' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Item::{ctor}</FUNCTION>
+    <DECORATED>??0Item@@QEAA@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\vejska\cink01_sklad_zbozi\sklad_zbozi\</FILEPATH>
+      <FILENAME>item.h</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Item::cena' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Item::{ctor}</FUNCTION>
+    <DECORATED>??0Item@@QEAA@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\vejska\cink01_sklad_zbozi\sklad_zbozi\</FILEPATH>
+      <FILENAME>hashtable.h</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Zaznam::{ctor}</FUNCTION>
+    <DECORATED>??0Zaznam@@QEAA@XZ</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\vejska\cink01_sklad_zbozi\sklad_zbozi\</FILEPATH>
+      <FILENAME>hashtable.h</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Zaznam::key' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Zaznam::{ctor}</FUNCTION>
+    <DECORATED>??0Zaznam@@QEAA@XZ</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\vejska\cink01_sklad_zbozi\sklad_zbozi\</FILEPATH>
+      <FILENAME>hashtable.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>HashTable::{ctor}</FUNCTION>
+    <DECORATED>??0HashTable@@QEAA@XZ</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\vejska\cink01_sklad_zbozi\sklad_zbozi\</FILEPATH>
+      <FILENAME>hashtable.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'HashTable::curr' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>HashTable::{ctor}</FUNCTION>
+    <DECORATED>??0HashTable@@QEAA@XZ</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\vejska\cink01_sklad_zbozi\sklad_zbozi\</FILEPATH>
+      <FILENAME>hashtable.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'HashTable::tabulka' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>HashTable::{ctor}</FUNCTION>
+    <DECORATED>??0HashTable@@QEAA@XZ</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Sklad_zbozi.cpp
+d:\vejska\cink01_sklad_zbozi\sklad_zbozi\item.h(10): warning C26495: Variable 'Item::pocet' is uninitialized. Always initialize a member variable (type.6).
+d:\vejska\cink01_sklad_zbozi\sklad_zbozi\item.h(10): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+d:\vejska\cink01_sklad_zbozi\sklad_zbozi\hashtable.h(9): warning C26495: Variable 'Zaznam::key' is uninitialized. Always initialize a member variable (type.6).
+d:\vejska\cink01_sklad_zbozi\sklad_zbozi\hashtable.h(9): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+d:\vejska\cink01_sklad_zbozi\sklad_zbozi\sklad_zbozi.cpp(40): warning C6001: Používá se neinicializovaná paměť key.

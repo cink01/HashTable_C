@@ -1,0 +1,18 @@
+Napište program pro vedení a sledování skladu zboží. Sklad bude reprezentován jako tabulka, 
+jejíž prvky budou obsahovat identifikaèní èíslo zboží, název zboží, cenu zboží a poèet kusù 
+na skladì. Klíèem je identifikaèní èíslo zboží. Zvolte vhodnou reprezentaci tabulky za pøedpokladu,
+že budou èasto do seznamu zaøazovány nové skladové zásoby a odebírány již neplatné zásoby, poèet zásob není pøedem znám.
+
+Operace:
+- výpis prvku s daným klíèem
+- zrušení prvkù s daným klíèem x
+- výpis všech prvkù seøazený podle identifikaèního èísla	
+- výpoèet celkové ceny zboží	
+
+Aplikace by mìla umožòovat:
+zaøazovat zboží skladu
+vyhledávat skladovou položku
+editovat stav zboží na skladu
+Vyhledat a zobrazit skupinu skladových položek podle nìjakého kritéria
+odebrat tyto položky ze skladu nebo je zaøadit do jiného seznamu.
+Dále by mìla poskytovat seøazený pohled na sklad 
